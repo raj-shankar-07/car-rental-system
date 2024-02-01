@@ -7,7 +7,6 @@ A robust and modular car rental system implemented in Java, leveraging object-or
 - **Vehicle Management:** Efficiently manage various vehicle types.
 - **Customer Interaction:** User-friendly interface for reservations and rental history.
 - **Rental Transactions:** Streamlined process with dynamic fee calculation.
-- **Administrative Tools:** Inventory management, reporting, and revenue tracking.
 
 ## Object-Oriented Design
 
