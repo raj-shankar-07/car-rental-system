@@ -18,14 +18,6 @@ Follows OOP principles for a modular and extensible architecture.
 - Java
 - Git
 
-## Getting Started
-
-Clone the repository and follow setup instructions in the [documentation](docs/).
-
-## Contributing
-
-Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## About
 
 Created by [Raj Shankar]. Contact: [rajshankar05082004@gmail.com].
